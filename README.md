@@ -32,6 +32,8 @@ The aim of this project was to:
 - Health buildings were the most frequently targeted location
 - Large spikes in incidents were observed during 2018 and 2023
 
+![image_alt](https://github.com/GozdeMcGerr/healthcare-incident-analysis/blob/bfa913c23729b925584ad592939658468bb5147a/2017-2024-pse-attacks-on-health-care-incident.xlsx)
+
 ## Recommendations
 
 - Strengthen protection of healthcare facilities
@@ -51,7 +53,4 @@ The aim of this project was to:
 
 ## Project Files
 
-- healthcare-incident-analysis.xlsx
-- healthcare-incident-analysis-report.pdf
-- healthcare-incident-analysis-presentation.pptx
-- README.md
+- [Healthcare Incident Analysis](
